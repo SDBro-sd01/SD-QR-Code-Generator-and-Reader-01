@@ -813,8 +813,7 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 **Your Name**
 
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your.email@example.com
+- GitHub: [@SDBro-sd01](https://github.com/SDBro-sd01)
 
 > ⭐ If you find this project useful, please consider giving it a star on GitHub!
 
